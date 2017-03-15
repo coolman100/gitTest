@@ -7,3 +7,7 @@ function feature2()
 {
 echo test2;
 }
+
+function hotfix(){
+echo test 3;
+}
